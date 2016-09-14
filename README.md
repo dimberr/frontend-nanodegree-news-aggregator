@@ -14,6 +14,8 @@ Unfortunately it has a bunch of performance issues, such as:
 
 Your mission is to find and fix the issues, and make the app gloriously performant!
 
+[My version](https://dimberr.github.io/frontend-nanodegree-news-aggregator/) [Original version](http://udacity.github.io/news-aggregator)
+
 ## License
 
 See /LICENSE for more.
